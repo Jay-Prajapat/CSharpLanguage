@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
