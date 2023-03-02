@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\obj\Debug\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

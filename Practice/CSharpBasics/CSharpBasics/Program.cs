@@ -49,13 +49,13 @@ namespace CSharpBasics
         public int Salary { get; set;}
         public int Experience { get; set;}
 
-        public static void PromoteEmplpoyee(List<Employee> employeesList)
-        {
-            foreach(Employee employee in employeesList)
-            {
+        //public static void PromoteEmplpoyee(List<Employee> employeesList)
+        //{
+        //    foreach(Employee employee in employeesList)
+        //    {
                 
-            }
-        }
+        //    }
+        //}
             
     }
 }
