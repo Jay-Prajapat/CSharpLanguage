@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\obj\Debug\Customer_Account.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\obj\Debug\Customer_Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\obj\Debug\Customer_Account.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\bin\Debug\Customer_Account.exe.config
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\bin\Debug\Customer_Account.exe
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\bin\Debug\Customer_Account.pdb
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\obj\Debug\Customer_Account.exe
+C:\Users\jay\Documents\C#Language\Practical2\Customer_Account\Customer_Account\obj\Debug\Customer_Account.pdb
