@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\bin\Debug\GenericsPractice.exe.config
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\bin\Debug\GenericsPractice.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\bin\Debug\GenericsPractice.pdb
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\obj\Debug\GenericsPractice.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\obj\Debug\GenericsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\obj\Debug\GenericsPractice.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\obj\Debug\GenericsPractice.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\GenericsPractice\obj\Debug\GenericsPractice.pdb

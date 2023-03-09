@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\bin\Debug\DictionaryExample.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\bin\Debug\DictionaryExample.pdb
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\obj\Debug\DictionaryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\obj\Debug\DictionaryExample.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\DictionaryExample\obj\Debug\DictionaryExample.pdb

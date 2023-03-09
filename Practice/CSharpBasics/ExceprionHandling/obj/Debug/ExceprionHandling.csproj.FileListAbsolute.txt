@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\bin\Debug\ExceprionHandling.exe.config
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\bin\Debug\ExceprionHandling.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\bin\Debug\ExceprionHandling.pdb
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\obj\Debug\ExceprionHandling.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\obj\Debug\ExceprionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\obj\Debug\ExceprionHandling.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\obj\Debug\ExceprionHandling.exe
+C:\Users\jay\Documents\C#Language\Practice\CSharpBasics\ExceprionHandling\obj\Debug\ExceprionHandling.pdb
