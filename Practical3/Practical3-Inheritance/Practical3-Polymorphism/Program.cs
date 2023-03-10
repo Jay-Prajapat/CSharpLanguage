@@ -8,28 +8,32 @@ namespace Practical3_Polymorphism
 {
     internal class Program
     {
-        public class Brid
-        {
-            //Brid class voice method prints "Turr Turr".
-            public void Voice()
-            {
-                Console.WriteLine("Turr Turr");
-            }
-        }
-        public class Duck : Brid
-        {
-            //Duck class voice method prints "Quack Quack".
-            public void Voice()
-            {
-                Console.WriteLine("Quack Quack");
-            }
-        }
+       
         static void Main(string[] args)
         {
-            Brid myBrid = new Brid();
-            Duck myDuck = new Duck();
+            Bird myBrid = new Bird();
+            Bird myDuck = new Duck();
+            Duck myDuck1 = new Duck();
             myBrid.Voice();
             myDuck.Voice();
+            myDuck1.Voice();
+
+        }
+    }
+    public class Bird
+    {
+        //Brid class voice method prints "Turr Turr".
+        public void Voice()
+        {
+            Console.WriteLine("Turr Turr");
+        }
+    }
+    public class Duck : Bird
+    {
+        //Duck class voice method prints "Quack Quack".
+        public void Voice()
+        {
+            Console.WriteLine("Quack Quack");
         }
     }
 }
