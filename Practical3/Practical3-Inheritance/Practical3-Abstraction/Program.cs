@@ -11,6 +11,8 @@ namespace Practical3_Abstraction
         static void Main(string[] args)
         {
             Laptop laptop = new Laptop();
+            laptop.Brand = "HP";
+            laptop.Model = "Pavilion Series";
             laptop.LaptopDetails();
             //laptop.MotherBoardInfo();
            //MotherBoardInfo is not accessible because it is private in laptop class so we can only access it into
@@ -19,13 +21,24 @@ namespace Practical3_Abstraction
     }
     public class Laptop
     {
-        private string brand;
-        private string model;
+        private string _brand;
+        private string _model;
+        //public property that get and sets the brand of laptop.
+        public string Brand {
+            get { return _brand; }
+            set { _brand = value; }
+        }
+        //public property that get and sets the model of laptop.
+
+        public string Model {
+            get { return _model; }
+            set { _model = value; }  
+        }
         //public method that gives the details about laptop brand and model.
         public void LaptopDetails()
         {
-            Console.WriteLine($"Brand: {brand}");
-            Console.WriteLine($"Model: {model}");
+            Console.WriteLine($"Brand: {Brand}");
+            Console.WriteLine($"Model: {Model}");
         }
         //private method that gives information about MotherBoard of laptop.
         private void MotherBoardInfo()
