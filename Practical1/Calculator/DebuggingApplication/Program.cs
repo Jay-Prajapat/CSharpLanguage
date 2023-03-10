@@ -11,7 +11,7 @@ namespace DebuggingApplication
         static void Main(string[] args)
         {
             string userResponse = Console.ReadLine();
-            if(int.TryParse(out userResponse)) { 
+            if(Convert.ToBoolean(int.Parse(userResponse))) { 
                 Console.WriteLine("The Entered value is a integer");
             }
         }

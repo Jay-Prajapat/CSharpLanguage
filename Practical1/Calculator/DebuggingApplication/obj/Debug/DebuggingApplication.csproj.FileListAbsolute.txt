@@ -1,3 +1,8 @@
 C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.AssemblyReference.cache
 C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.SuggestedBindingRedirects.cache
 C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.exe.config
+C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.exe
+C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\bin\Debug\DebuggingApplication.pdb
+C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.exe
+C:\Users\jay\Documents\C#Language\Practical1\Calculator\DebuggingApplication\obj\Debug\DebuggingApplication.pdb
