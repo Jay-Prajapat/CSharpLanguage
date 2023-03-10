@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\bin\Debug\Practical3-Polymorphism.exe.config
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\bin\Debug\Practical3-Polymorphism.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\bin\Debug\Practical3-Polymorphism.pdb
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\obj\Debug\Practical3-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\obj\Debug\Practical3-Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\obj\Debug\Practical3-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\obj\Debug\Practical3-Polymorphism.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Polymorphism\obj\Debug\Practical3-Polymorphism.pdb
