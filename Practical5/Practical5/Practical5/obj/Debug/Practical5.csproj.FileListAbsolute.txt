@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\bin\Debug\Practical5.exe.config
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\bin\Debug\Practical5.exe
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\bin\Debug\Practical5.pdb
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\obj\Debug\Practical5.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\obj\Debug\Practical5.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\obj\Debug\Practical5.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\obj\Debug\Practical5.exe
+C:\Users\jay\Documents\C#Language\Practical5\Practical5\Practical5\obj\Debug\Practical5.pdb
