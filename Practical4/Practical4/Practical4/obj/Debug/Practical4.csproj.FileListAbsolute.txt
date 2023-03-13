@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\obj\Debug\Practical4.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\obj\Debug\Practical4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\obj\Debug\Practical4.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\bin\Debug\Practical4.exe.config
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\bin\Debug\Practical4.exe
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\bin\Debug\Practical4.pdb
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\obj\Debug\Practical4.exe
+C:\Users\jay\Documents\C#Language\Practical4\Practical4\Practical4\obj\Debug\Practical4.pdb
