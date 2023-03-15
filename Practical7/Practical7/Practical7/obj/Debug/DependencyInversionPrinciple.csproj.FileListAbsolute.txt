@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\obj\Debug\DependencyInversionPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\bin\Debug\Practical7.exe.config
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\bin\Debug\Practical7.exe
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\bin\Debug\Practical7.pdb
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\obj\Debug\Practical7.exe
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\Practical7\obj\Debug\Practical7.pdb
