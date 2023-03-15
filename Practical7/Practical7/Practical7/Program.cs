@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,8 @@ namespace Practical7
         {
             EmployeeBusinessLogic employeeBusinessLogic= new EmployeeBusinessLogic();
             Employee emp = employeeBusinessLogic.GetEmployeeDetails(101);
-            Console.WriteLine($"ID: {emp.ID} , Name : {emp.Name}, Department: {emp.Department}, Salary: {emp.Salary}");         
+            Console.WriteLine($"ID: {emp.ID} , Name : {emp.Name}, Department: {emp.Department}, Salary: {emp.Salary}"); 
+  
         }
     }
 }
