@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA3301DD-0FFB-47EB-8AF6-F747DF000B88}</ProjectGuid>
+    <ProjectGuid>{49E45603-F235-4B36-B5E6-0B40499A1FB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Practical7</RootNamespace>
-    <AssemblyName>Practical7</AssemblyName>
+    <RootNamespace>OpenClosePrinciple</RootNamespace>
+    <AssemblyName>OpenClosePrinciple</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataAccessFactory.cs" />
-    <Compile Include="Emailer.cs" />
-    <Compile Include="Employee.cs" />
-    <Compile Include="EmployeeBusinessLogic.cs" />
-    <Compile Include="EmployeeDataAccessLogic.cs" />
-    <Compile Include="IEmployeeDataAccessLogic.cs" />
-    <Compile Include="Logger.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="Invoice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Task.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
