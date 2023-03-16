@@ -20,10 +20,10 @@ namespace SingleResponsibilityPrinciple
             Logger.Log($"{student.FirstName} is deleted");
             Logger.Log("Ending Delete()");
         }
-        public void SaveCourse(Student student)
+        public void SaveCourse(Student student, Course course)
         {
             Logger.Log("Starting SaveCourse()");
-            Logger.Log($"{student.FirstName} course is saved");
+            Logger.Log($"{student.FirstName} have taken {course.Title} Course.");
             Logger.Log("Ending SaveCourse()");
         }
     }

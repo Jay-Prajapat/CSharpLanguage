@@ -23,6 +23,12 @@ namespace SingleResponsibilityPrinciple
             {
                 Console.WriteLine("This course is Live");
             }
+
+            PaymentManager.PaymentProcess(std);
+
+            EmailManager.SendEmail(std);
+
+            Logger.Log("End Subscribe()");
         }
     }
 }
