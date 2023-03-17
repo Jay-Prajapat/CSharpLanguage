@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\bin\Debug\InterfaceSegrigationPrinciple.exe.config
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\bin\Debug\InterfaceSegrigationPrinciple.exe
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\bin\Debug\InterfaceSegrigationPrinciple.pdb
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\obj\Debug\InterfaceSegrigationPrinciple.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\obj\Debug\InterfaceSegrigationPrinciple.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\obj\Debug\InterfaceSegrigationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\obj\Debug\InterfaceSegrigationPrinciple.exe
+C:\Users\jay\Documents\C#Language\Practical7\Practical7\InterfaceSegrigationPrinciple\obj\Debug\InterfaceSegrigationPrinciple.pdb

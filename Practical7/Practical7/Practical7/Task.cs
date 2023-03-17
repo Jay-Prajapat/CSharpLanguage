@@ -9,6 +9,15 @@ namespace Practical7
 {
     public class Task : ITask
     {
+        ILogger _logger;
+        IEmailer _emailer;
+
+
+        public Task(ILogger logger, IEmailer emailer)
+        {
+            _logger = logger;
+            _emailer = emailer;
+        }
         public string TaskName { get; set; }
         public IPerson Owner { get; set; }
 
@@ -17,18 +26,15 @@ namespace Practical7
         public void PerformedWork(double hours)
         {
             HoursWorked += hours;
-            Logger log = new Logger();
-            log.Log($"Performed work on {TaskName} taking hours {HoursWorked}");
+            _logger.Log($"Performed work on {TaskName} taking hours {HoursWorked}");
         }
 
         public void TaskCompolete()
         {
             IsCompleted = true;
-            ILogger log = new Logger();
-            log.Log($"Completed {TaskName}");
+            _logger.Log($"Completed {TaskName}");
 
-            IEmailer emailer = new Emailer();
-            emailer.SendEmail(Owner, $"The Task {TaskName} is complete.");
+            _emailer.SendEmail(Owner, $"The Task {TaskName} is complete.");
 
         }
     }

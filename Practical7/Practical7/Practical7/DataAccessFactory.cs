@@ -25,7 +25,7 @@ namespace Practical7
 
         public static ITask CreateTask()
         {
-            return new Task();  
+            return new Task(CreateLogger(), CreateEmailer());  
         }
 
         public static IEmailer CreateEmailer()
