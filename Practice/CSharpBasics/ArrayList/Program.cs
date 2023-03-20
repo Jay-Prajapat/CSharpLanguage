@@ -94,6 +94,48 @@ namespace ArrayListEXample
             {
                 Console.WriteLine(arrElement);
             }
+
+            // ArrayList l1 = null;
+            //arr1.InsertRange(2, l1); give runtime error 
+            Stack st = new Stack();
+            st.Push(12);
+            st.Push(1);
+            Console.WriteLine(st.Peek());
+            SortedList<int,string> sl = new SortedList<int,string>();
+            sl.Add(1, "abc");
+            sl.Add(2, "abc");
+            sl.Add(5, "pqr");
+            sl.Add(4, "sd");
+            sl.Add(3, null);
+            foreach(var item in sl)
+            {
+                Console.WriteLine(item.Key + " " + item.Value);
+            }
+            SortedDictionary<int, string> sd = new SortedDictionary<int, string>();
+            sd.Add(1, "abd");
+            sd.Add(2, "abd");
+            sd.Add(3, null);
+            sd.Add(4, "pqr");
+            sd.Add(5, "fgh");
+            Console.WriteLine("-----------------");
+            foreach(var item in sd)
+            {
+                Console.WriteLine(item.Key + " " + item.Value);
+            }
+
+            HashSet<int> hs = new HashSet<int>();
+            hs.Add(2);
+            hs.Add(3);
+            hs.Add(1);
+            hs.Add(1);
+            hs.Add(5);
+
+            Console.WriteLine("-------------");
+            foreach(int item in hs)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
