@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\bin\Debug\Practical8.exe.config
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\bin\Debug\Practical8.exe
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\bin\Debug\Practical8.pdb
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\obj\Debug\Practical8.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\obj\Debug\Practical8.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\obj\Debug\Practical8.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\obj\Debug\Practical8.exe
+C:\Users\jay\Documents\C#Language\Practical8\Practical8\Practical8\obj\Debug\Practical8.pdb
