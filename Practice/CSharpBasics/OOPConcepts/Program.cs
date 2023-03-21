@@ -17,6 +17,32 @@ namespace OOPConcepts
             Console.WriteLine("Hello from ImplementationClass.");
         }
     }
+    public class A
+    {
+        public A()
+        {
+            Console.WriteLine("A constructor called");
+        }
+        public  void Method1()
+        {
+            Console.WriteLine("Method1 from A");
+        }
+        public void Method2()
+        {
+            Console.WriteLine("Method2 from A");
+        }
+    }
+    public class B: A
+    {
+        public B()
+        {
+            Console.WriteLine("B constructor called");
+        }
+        public  void Method1()
+        {
+            Console.WriteLine("Method3 from B");
+        }
+    }
     internal class Program
     {
         class Child
@@ -41,8 +67,8 @@ namespace OOPConcepts
 
         static void Main(string[] args)
         {
-            Child child1 = new Child(21,"Jay");
-            Child child2 = new Child(22,"Dev");
+            Child child1 = new Child(21, "Jay");
+            Child child2 = new Child(22, "Dev");
             Child child3 = new Child();
 
             Console.Write("Child1: ");
@@ -56,6 +82,9 @@ namespace OOPConcepts
 
             ISampleInterface obj = new ImplementationClass();
             obj.SampleMethod();
+
+            A a = new B();
+            a.Method2();
 
         }
     }
