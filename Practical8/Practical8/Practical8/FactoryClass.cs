@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Practical8
 {
+    /// <summary>
+    /// This class provides instance of classes and it makes application loosly coupled.
+    /// </summary>
     public static class FactoryClass
     {
         public static IStudent GetStudent()

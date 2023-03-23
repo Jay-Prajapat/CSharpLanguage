@@ -8,6 +8,11 @@ namespace Practical8
 {
     public class StudentInfo : IStudentInfo
     {
+        /// <summary>
+        /// This method will print the specific student information that is given in id.
+        /// </summary>
+        /// <param name="studentList"></param>
+        /// <param name="id"></param>
         public void ViewStudent(IManageStudentList studentList, int id)
         {
             List<IStudent> students = studentList.Students;
@@ -30,7 +35,10 @@ namespace Practical8
             }
             catch (Exception ex) { Console.WriteLine(ex.Message); }
         }
-
+        /// <summary>
+        /// This method will print all students details from the student list.
+        /// </summary>
+        /// <param name="studentList"></param>
         public void ViewStudent(IManageStudentList studentList)
         {
             List<IStudent> students = studentList.Students;

@@ -8,6 +8,10 @@ namespace Practical8
 {
     public class AddStudent : IAddStudent
     {
+        /// <summary>
+        /// This method will take the student details and add this student to the student list.
+        /// </summary>
+        /// <param name="studentList"></param>
         public void AddNewStudent(IManageStudentList studentList)
         {
             try

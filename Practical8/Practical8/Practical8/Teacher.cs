@@ -8,6 +8,10 @@ namespace Practical8
 {
     public sealed class Teacher : ManageTeacher
     {
+        /// <summary>
+        /// This method will update the student information in the student list.
+        /// </summary>
+        /// <param name="studentList"></param>
         public override void UpdateStudent(IManageStudentList studentList)
         {
             Console.WriteLine("---- Update Student Info. ----");
@@ -40,7 +44,11 @@ namespace Practical8
                 Console.WriteLine(ex.Message); 
             }
         }
-
+        /// <summary>
+        /// This method will delete the student information from student list by given specific id.
+        /// </summary>
+        /// <param name="studentList"></param>
+        /// <param name="id"></param>
         public override void DeleteStudent(IManageStudentList studentList, int id)
         {
             if(studentList.Students.Exists(std => std.Id == id))

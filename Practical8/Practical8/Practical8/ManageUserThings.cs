@@ -17,6 +17,11 @@ namespace Practical8
             DeleteStudent = 5,
             Exit = 6
         }
+        /// <summary>
+        /// This method will give different options and based on the 
+        /// option selection we can do different CRUD operation.
+        /// </summary>
+        /// <param name="studentList"></param>
         public void ManageUsers(IManageStudentList studentList)
         {
             while (true)
