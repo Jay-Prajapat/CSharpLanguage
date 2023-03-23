@@ -7,32 +7,24 @@ using System.Threading.Tasks;
 namespace Practical8
 {
     internal class Program
-    {          
+    {
         static void Main(string[] args)
         {
-            IStudent student = new Customer();
-            Console.WriteLine("Enter first name of the student");
-            student.FirstName= Console.ReadLine();
-            Console.WriteLine("Enter last name of the student");
-            student.LastName= Console.ReadLine();
-            
-            Console.WriteLine("Enter email of the student");
-            student.Email = Console.ReadLine();
+            List<IStudent> students = new List<IStudent>();
+            IStudent student = FactoryClass.GetStudent();
 
-            try
-            {
-                Console.WriteLine("Enter age of the student");
-                student.Age = int.Parse(Console.ReadLine());
+            student.Id = 1;
+            student.FirstName = "Jay";
+            student.LastName = "Prajapati";
+            student.Age = 21;
+            student.Email = "jay.12@gmail.com";
+            student.PhoneNumber = 598547451;
 
-                Console.WriteLine("Enter phone number of the student"); 
-                student.PhoneNumber = int.Parse(Console.ReadLine());
-            }
-            catch(FormatException e)
-            {
-                Console.WriteLine(e.Message);
-            }
-
-              
+            students.Add(student);
+            IManageStudentList studentList = FactoryClass.GetManageStudentList();
+            studentList.Students = students;
+            IManageUserThings m = FactoryClass.GetManageUserThings();
+            m.ManageUsers(studentList);
         }
     }
 }

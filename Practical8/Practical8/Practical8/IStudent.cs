@@ -13,6 +13,6 @@ namespace Practical8
         string LastName { get; set; }
         int Age { get; set; }
         string Email { get; set; }
-        int PhoneNumber { get; set; }
+        long PhoneNumber { get; set; }
     }
 }
