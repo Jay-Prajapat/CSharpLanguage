@@ -44,6 +44,9 @@ namespace Practical4
                     case 5:
                         Environment.Exit(0);
                         break;
+                    default: 
+                        Console.WriteLine("Choose Valid option!!!");
+                        break;
 
                 }
             }
