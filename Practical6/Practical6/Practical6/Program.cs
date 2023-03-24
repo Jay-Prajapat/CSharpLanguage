@@ -15,6 +15,9 @@ namespace Practical6
             bl.StartProcess();
           
         }
+        /// <summary>
+        /// This method will complete the process.
+        /// </summary>
         public static void bl_ProcessCompleted()
         {
             Console.WriteLine("Process Completed!");
