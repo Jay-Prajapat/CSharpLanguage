@@ -24,6 +24,9 @@ namespace LiskovSubstitutionPrinciple
 
     public class Apple : IFruit
     {
+        /// <summary>
+        /// The apple class method will print the color of apple.
+        /// </summary>
         public void GetColor()
         {
             Console.WriteLine("Color is Red");
@@ -32,6 +35,9 @@ namespace LiskovSubstitutionPrinciple
 
     public class Orange : IFruit
     {
+        /// <summary>
+        /// The Orange class meethod will print the color of orange.
+        /// </summary>
         public void GetColor()
         {
             Console.WriteLine("Color is Orange");

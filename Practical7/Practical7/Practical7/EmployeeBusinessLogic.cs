@@ -14,6 +14,11 @@ namespace Practical7
         {
             _IEmployeeDataAccessLogic = DataAccessFactory.GetEmployeeDataAccessObj();
         }
+        /// <summary>
+        /// This will call the GetEmployeeDetails method.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>This will returns GetEmployeeDetails method.</returns>
         public Employee GetEmployeeDetails(int id)
         {
             return _IEmployeeDataAccessLogic.GetEmployeeDetails(id);

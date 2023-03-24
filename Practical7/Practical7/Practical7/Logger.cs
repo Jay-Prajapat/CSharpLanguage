@@ -8,6 +8,10 @@ namespace Practical7
 {
     public class Logger : ILogger
     {
+        /// <summary>
+        /// This will print the message.
+        /// </summary>
+        /// <param name="message"></param>
         public void Log(string message)
         {
             Console.WriteLine(message);

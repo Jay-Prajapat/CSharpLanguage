@@ -8,6 +8,10 @@ namespace SingleResponsibilityPrinciple
 {
     public class PaymentManager
     {
+        /// <summary>
+        /// This will complete payment process and print the message.
+        /// </summary>
+        /// <param name="student"></param>
         public static void PaymentProcess(Student student)
         {
             Console.WriteLine($"Payment Completed for {student.FirstName}");

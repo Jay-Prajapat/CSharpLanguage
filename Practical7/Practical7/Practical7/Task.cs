@@ -23,12 +23,18 @@ namespace Practical7
 
         public double HoursWorked { get; private set; }
         public bool IsCompleted { get; private set; }
+        /// <summary>
+        /// This will calculate the work hours and print the message.
+        /// </summary>
+        /// <param name="hours"></param>
         public void PerformedWork(double hours)
         {
             HoursWorked += hours;
             _logger.Log($"Performed work on {TaskName} taking hours {HoursWorked}");
         }
-
+        /// <summary>
+        /// This will call the log method and SendEmail method.
+        /// </summary>
         public void TaskCompolete()
         {
             IsCompleted = true;

@@ -11,7 +11,10 @@ namespace SingleResponsibilityPrinciple
         public int CourseID { get; set; }
         public string Title { get; set; }
         public string Type { get; set; }
-
+        /// <summary>
+        /// This will assign the course and call the payment process method and send email. 
+        /// </summary>
+        /// <param name="std"></param>
         public void Subscribe(Student std)
         {
             Logger.Log("Starting Subscribe()");
