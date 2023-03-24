@@ -22,6 +22,9 @@ namespace Practical3_Inheritance
     public class Sponser
     {
         protected string owner = "Rakuteen";
+        /// <summary>
+        /// This method will print the owner name.
+        /// </summary>
         public void printInfo()
         {
             Console.WriteLine($"Owner of team is {owner}");
@@ -30,7 +33,9 @@ namespace Practical3_Inheritance
     public class Team : Sponser
     {
         private string teamName = "Titans";
-        //printInfo method prints the information about teamName and owner.
+       /// <summary>
+       /// This method will print the name and owner of the team.
+       /// </summary>
         public void printInfo()
         {
             Console.WriteLine($"Team name is {teamName} and the owner is {owner}");

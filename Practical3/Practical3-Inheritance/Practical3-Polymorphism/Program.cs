@@ -22,7 +22,9 @@ namespace Practical3_Polymorphism
     }
     public class Bird
     {
-        //Brid class voice method prints "Turr Turr".
+        /// <summary>
+        /// This is a Brid class method and will print the voice of bird.
+        /// </summary>
         public void Voice()
         {
             Console.WriteLine("Turr Turr");
@@ -30,7 +32,9 @@ namespace Practical3_Polymorphism
     }
     public class Duck : Bird
     {
-        //Duck class voice method prints "Quack Quack".
+        /// <summary>
+        /// This is a method of Duck class and will print the voice Duck.
+        /// </summary>
         public void Voice()
         {
             Console.WriteLine("Quack Quack");

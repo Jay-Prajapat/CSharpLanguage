@@ -34,13 +34,17 @@ namespace Practical3_Abstraction
             get { return _model; }
             set { _model = value; }  
         }
-        //public method that gives the details about laptop brand and model.
+        /// <summary>
+        /// This method will print the laptop details like brand and model of laptop.
+        /// </summary>
         public void LaptopDetails()
         {
             Console.WriteLine($"Brand: {Brand}");
             Console.WriteLine($"Model: {Model}");
         }
-        //private method that gives information about MotherBoard of laptop.
+        /// <summary>
+        /// This private method will print the mother board information of laptop.
+        /// </summary>
         private void MotherBoardInfo()
         {
             Console.WriteLine("Mother board information");
