@@ -58,7 +58,11 @@ namespace Practical4
         public string Name;
         public decimal[] Marks = new decimal[5];
         static decimal AverageMarks;
-
+        /// <summary>
+        /// This method will calculate an average marks.
+        /// </summary>
+        /// <param name="marks"></param>
+        /// <returns>decimal value of average marks</returns>
         public decimal CalculateAverageMarks(decimal[] marks)
         {
             decimal sum = 0;
@@ -69,15 +73,29 @@ namespace Practical4
             AverageMarks = sum / marks.Length;
             return AverageMarks;
         }
-
+        /// <summary>
+        /// This method will find the minimum mark from the given marks.
+        /// </summary>
+        /// <param name="marks"></param>
+        /// <returns>The minimum value from marks.</returns>
         public decimal FindMinimumMarks(decimal[] marks)
         {
             return marks.Min();
         }
+        /// <summary>
+        /// This will find the maximum mark from the given marks.
+        /// </summary>
+        /// <param name="marks"></param>
+        /// <returns>The maximum value from marks.</returns>
         public decimal FindMaximumMarks(decimal[] marks)
         {
             return marks.Max();
         }
+        /// <summary>
+        /// This will calculate the grade based on the marks.
+        /// </summary>
+        /// <param name="mark"></param>
+        /// <returns>Grade of the student based on marks.</returns>
         public string CalculateGrade(decimal mark)
         {
             string grade = "";
