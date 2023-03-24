@@ -17,7 +17,9 @@ namespace Customer_Account
             customerAccountNo = customer_accountNo;
             customerName = customer_name;
         }
-        //printing the information of the customer - CustomerName,BankName,CustomerAccountNumber.
+        /// <summary>
+        /// This will print the information of customers.
+        /// </summary>
         public void printInfo()
         {
             Console.WriteLine("Customer Information:");
