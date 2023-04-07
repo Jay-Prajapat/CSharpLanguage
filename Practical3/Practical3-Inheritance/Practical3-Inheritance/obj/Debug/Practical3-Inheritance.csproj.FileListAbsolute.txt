@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\bin\Debug\Practical3-Inheritance.exe.config
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\bin\Debug\Practical3-Inheritance.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\bin\Debug\Practical3-Inheritance.pdb
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\obj\Debug\Practical3-Inheritance.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\obj\Debug\Practical3-Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\obj\Debug\Practical3-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\obj\Debug\Practical3-Inheritance.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Inheritance\obj\Debug\Practical3-Inheritance.pdb

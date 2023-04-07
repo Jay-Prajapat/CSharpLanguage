@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\bin\Debug\Practical3-Abstraction.exe.config
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\bin\Debug\Practical3-Abstraction.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\bin\Debug\Practical3-Abstraction.pdb
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\obj\Debug\Practical3-Abstraction.csproj.AssemblyReference.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\obj\Debug\Practical3-Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\obj\Debug\Practical3-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\obj\Debug\Practical3-Abstraction.exe
+C:\Users\jay\Documents\C#Language\Practical3\Practical3-Inheritance\Practical3-Abstraction\obj\Debug\Practical3-Abstraction.pdb
